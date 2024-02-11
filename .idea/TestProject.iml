@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/taskTwo/src" isTestSource="false" packagePrefix="taskTwo\src\" />
+      <sourceFolder url="file://$MODULE_DIR$/taskTwo/tests" isTestSource="true" packagePrefix="taskTwo\tests\" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/taskTwo/vendor/theseer/tokenizer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
